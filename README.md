@@ -17,7 +17,7 @@ Your task is to take Pat's material, as shown below, and organize it into a less
 # Preconditions
 
 1. The students have already been exposed to instruction on the basics of HTML.
-1. The next task for the students is to learn how to write their own CSS and tie it with the existing HTML they created in Lesson 1.
+1. The next task for the students is to learn how to write their own CSS and tie it with the existing HTML they created in Lesson 1 and weave a coherent narrative for this section.
 
 # Deliverables
 
@@ -28,7 +28,7 @@ This lesson plan will include:
 1. A block-by-block breakdown of instruction, _e.g._ 0-5mins Topic x ; 5-15mins Topic y.
 1. Clear headers and content material for an instructor to follow. This material will be written like a script, but will not be intended to be read verbatim. Use your judgement here on how to present this material for a live teaching scenario.
 1. Use the best practices of [Markdown](https://www.markdownguide.org/cheat-sheet/) when writing this plan.
-1. Consider rewriting parts of the SME's work into your own words. It's possible Pat may have copied segments directly from other resources. For the purposes of this exercise, use your judgement on how to rewrite and rephrase the content because parts of the content are directly lifted from other online resources. It's not important to call out Pat's plagiarism, but if you can see what parts have been lifted from other resources, it's worth noting how you would address and mitigate these concerns. 
+1. Consider rewriting parts of the SME's work into your own words. It's possible Pat may have copied segments directly from other resources. For the purposes of this exercise, use your judgement on how to rewrite and rephrase the content because parts of the content are directly lifted from other online resources. It's not important to call out Pat's plagiarism, but if you can see what parts have been lifted from other resources, it's worth noting how you would address and mitigate these concerns.
 
 # Material
 
@@ -68,3 +68,5 @@ Because browsers are usually required to support all existing content on the Web
 ### HTML Element
 
 Next up in any HTML document is the html element, which has not changed significantly with HTML5. In our example, we’ve included the lang attribute with a value of en, which specifies that the document is in English. In XHTML-based syntax, you’d be required to include an xmlns attribute. In HTML5, this is no longer needed, and even the lang attribute is unnecessary for the document to validate or function correctly.
+
+## CSS
