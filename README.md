@@ -17,7 +17,7 @@ Your task is to take Pat's material, as shown below, and organize it into a less
 # Preconditions
 
 1. The students have already been exposed to instruction on the basics of HTML.
-1. The next task for the students is to learn how to write their own CSS and tie it with the existing HTML they created in Lesson 1 and weave a coherent narrative for this section.
+1. The next task for the students is to understand how CSS fits in the ecosystem and tie it with the existing HTML they created in Lesson 1 and weave a coherent narrative for this section.
 
 # Deliverables
 
