@@ -181,4 +181,4 @@ You can also apply a selector to a specific HTML element by simply stating the H
 
 Do you see this?
 
-![](example.png)
+![](https://gist.githubusercontent.com/sonylnagale/062b13463394c162fe4fb7227b1a0675/raw/5fea1dbc6ff695ed12f841746c4aa75a22fb58bb/example.png)
