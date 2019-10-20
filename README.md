@@ -176,3 +176,9 @@ The HTML refers to the CSS by using the attributes id and class. It could look s
 The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.
 
 You can also apply a selector to a specific HTML element by simply stating the HTML selector first, so `p.jam { /* whatever */ }` will only be applied to **paragraph** elements that have the class “jam”.
+
+### Checkpoint
+
+Do you see this?
+
+![](example.png)
