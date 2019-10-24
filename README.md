@@ -30,6 +30,7 @@ This lesson plan will include:
 1. Clear headers and content material for an instructor to follow. This material will be written like a script, but will not be intended to be read verbatim. Use your judgement here on how to present this material for a live teaching scenario.
 1. Use the best practices of [Markdown](https://www.markdownguide.org/cheat-sheet/) when writing this plan.
 1. Consider rewriting parts of the SME's work into your own words. It's possible Pat may have copied segments directly from other resources. For the purposes of this exercise, use your judgement on how to rewrite and rephrase the content because parts of the content are directly lifted from other online resources.
+1. For submission instructions, please see the [SUBMISSION.md](./SUBMISSION.md) file.
 
 # Material - Begin Here
 
