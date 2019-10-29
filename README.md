@@ -183,3 +183,8 @@ You can also apply a selector to a specific HTML element by simply stating the H
 Do you see this?
 
 ![](https://gist.githubusercontent.com/sonylnagale/062b13463394c162fe4fb7227b1a0675/raw/5fea1dbc6ff695ed12f841746c4aa75a22fb58bb/example.png)
+
+
+## Submission
+
+In order to submit your assessment, please view [the submission instructions](./SUBMISSION.md) and please do reach out with any questions.
